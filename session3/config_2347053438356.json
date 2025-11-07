@@ -4,7 +4,7 @@
   "AUTO_RECORDING": "true",
   "AUTO_REACT": "false",
   "ANTI_LINK": "false",
-  "MODE": "private",
+  "MODE": "inbox",
   "PREFIX": ".",
   "AUTO_LIKE_EMOJI": [
     "❤️",
